@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\46c63016" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Pluralsight Projects\psadmin" t="IncludeFlat">
+      <e p="node_modules\bootstrap" t="IncludeRecursive" />
+      <e p="node_modules\browserify" t="IncludeRecursive" />
+      <e p="node_modules\flux" t="IncludeRecursive" />
+      <e p="node_modules\gulp" t="IncludeRecursive" />
+      <e p="node_modules\gulp-concat" t="IncludeRecursive" />
+      <e p="node_modules\gulp-connect" t="IncludeRecursive" />
+      <e p="node_modules\gulp-eslint" t="IncludeRecursive" />
+      <e p="node_modules\gulp-open" t="IncludeRecursive" />
+      <e p="node_modules\jquery" t="IncludeRecursive" />
+      <e p="node_modules\react" t="IncludeRecursive" />
+      <e p="node_modules\react-router" t="IncludeRecursive" />
+      <e p="node_modules\reactify" t="IncludeRecursive" />
+      <e p="node_modules\vinyl-source-stream" t="IncludeRecursive" />
+      <e p="psadmin.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\ams\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\ams\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ams\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_psadmin.569986714.00" t="ExcludeRecursive" />
+  </component>
+</project>
