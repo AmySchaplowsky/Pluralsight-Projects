@@ -1,22 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="\97c4f6c6" t="IncludeRecursive" />
+    <e p="\1f3e99d3" t="IncludeRecursive" />
     <e p="\app" t="IncludeRecursive" />
-    <e p="C:\Pluralsight Projects" t="IncludeFlat">
+    <e p="C:\Pluralsight-Projects" t="IncludeFlat">
+      <e p="author-quiz\node_modules\@types" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\bootstrap" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\enzyme" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\enzyme-adapter-react-16" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\prop-types" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\react" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\react-dom" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\react-scripts" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\TypeScript" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\underscore" t="IncludeRecursive" />
       <e p="Pluralsight Projects.sln" t="IncludeFlat" />
       <e p="psadmin\node_modules\bootstrap" t="IncludeRecursive" />
       <e p="psadmin\node_modules\browserify" t="IncludeRecursive" />
+      <e p="psadmin\node_modules\flux" t="IncludeRecursive" />
       <e p="psadmin\node_modules\gulp" t="IncludeRecursive" />
       <e p="psadmin\node_modules\gulp-concat" t="IncludeRecursive" />
       <e p="psadmin\node_modules\gulp-connect" t="IncludeRecursive" />
+      <e p="psadmin\node_modules\gulp-eslint" t="IncludeRecursive" />
       <e p="psadmin\node_modules\gulp-open" t="IncludeRecursive" />
       <e p="psadmin\node_modules\jquery" t="IncludeRecursive" />
+      <e p="psadmin\node_modules\lodash" t="IncludeRecursive" />
+      <e p="psadmin\node_modules\react" t="IncludeRecursive" />
+      <e p="psadmin\node_modules\react-router" t="IncludeRecursive" />
       <e p="psadmin\node_modules\reactify" t="IncludeRecursive" />
       <e p="psadmin\node_modules\vinyl-source-stream" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\@fortawesome\fontawesome-svg-core" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\@fortawesome\free-regular-svg-icons" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\@fortawesome\free-solid-svg-icons" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\@fortawesome\react-fontawesome" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\axios" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\bootstrap" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\fontawesome" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\lodash" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\react" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\react-dom" t="IncludeRecursive" />
+      <e p="react-basics\node_modules\react-scripts" t="IncludeRecursive" />
     </e>
-    <e p="C:\Users\ams\.Rider2018.2\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\ams\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\ams\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Pluralsight Projects.647342193.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kyles\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kyles\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Pluralsight Projects.1093836292.00" t="ExcludeRecursive" />
   </component>
 </project>
