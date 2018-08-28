@@ -1,0 +1,19 @@
+.card {
+    margin: 1em;
+    border: none;
+}
+
+.name-and-company {
+    display: inline-block;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.name {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.image {
+    width: 75px;
+}

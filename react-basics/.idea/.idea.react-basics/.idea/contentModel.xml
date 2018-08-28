@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\6c2f707b" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Pluralsight\react-basics" t="IncludeFlat">
+      <e p="node_modules\@fortawesome\fontawesome-svg-core" t="IncludeRecursive" />
+      <e p="node_modules\@fortawesome\free-regular-svg-icons" t="IncludeRecursive" />
+      <e p="node_modules\@fortawesome\free-solid-svg-icons" t="IncludeRecursive" />
+      <e p="node_modules\@fortawesome\react-fontawesome" t="IncludeRecursive" />
+      <e p="node_modules\axios" t="IncludeRecursive" />
+      <e p="node_modules\bootstrap" t="IncludeRecursive" />
+      <e p="node_modules\fontawesome" t="IncludeRecursive" />
+      <e p="node_modules\lodash" t="IncludeRecursive" />
+      <e p="node_modules\react" t="IncludeRecursive" />
+      <e p="node_modules\react-dom" t="IncludeRecursive" />
+      <e p="node_modules\react-scripts" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\kyles\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kyles\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_react-basics.-167317368.00" t="ExcludeRecursive" />
+  </component>
+</project>
