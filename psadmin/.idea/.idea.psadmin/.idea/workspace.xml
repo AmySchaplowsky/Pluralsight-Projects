@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="718bd035-336c-4f16-a4e0-a08bd30b0c1d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.psadmin/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/authors/authorPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.psadmin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.psadmin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/authors/authorPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/authors/authorPage.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +24,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="124" />
-          <entry key="js" value="2215" />
+          <entry key="js" value="2217" />
           <entry key="json" value="3" />
         </counts>
       </usages-collector>
@@ -34,7 +32,7 @@
         <counts>
           <entry key="HTML" value="124" />
           <entry key="JSON" value="3" />
-          <entry key="JavaScript" value="2215" />
+          <entry key="JavaScript" value="2217" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -79,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/authors/authorPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+            <state relative-caret-position="80">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -160,22 +158,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="dist" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="components" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -217,12 +199,12 @@
       <workItem from="1534526741679" duration="1992000" />
       <workItem from="1534786696869" duration="1875000" />
       <workItem from="1535384119795" duration="5857000" />
-      <workItem from="1535479237652" duration="8585000" />
+      <workItem from="1535479237652" duration="9036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18309000" />
+    <option name="totallyTimeSpent" value="18760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,6 +217,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-487" y="-1088" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="npm" order="1" side_tool="true" />
@@ -363,8 +346,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/authors/authorPage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
