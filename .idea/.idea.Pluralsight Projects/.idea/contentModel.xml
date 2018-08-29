@@ -11,8 +11,10 @@
       <e p="author-quiz\node_modules\prop-types" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\react" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\react-dom" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\react-redux" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\react-router-dom" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\react-scripts" t="IncludeRecursive" />
+      <e p="author-quiz\node_modules\redux" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\TypeScript" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\underscore" t="IncludeRecursive" />
       <e p="Pluralsight Projects.sln" t="IncludeFlat" />
