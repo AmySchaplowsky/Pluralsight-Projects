@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e96acaf1-9e3d-47e8-9cb9-b27b9a8eeb25" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/.name" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author-quiz/src/Components/AuthorForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/author-quiz/src/Components/Contiune.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/author-quiz/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/.idea/.idea.psadmin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/.idea/.idea.psadmin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/components/authors/authorList.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/components/authors/authorList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/components/common/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/components/common/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react-basics/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react-basics/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-quiz/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-quiz/src/Components/Continue.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/Components/Continue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-quiz/src/Components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/Components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/author-quiz/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,37 +27,43 @@
     <session id="-689225665">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="2" />
           <entry key="html" value="3" />
-          <entry key="js" value="8" />
-          <entry key="json" value="4" />
+          <entry key="js" value="27" />
+          <entry key="json" value="6" />
+          <entry key="stackdump" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
-          <entry key="JSON" value="4" />
-          <entry key="JavaScript" value="8" />
+          <entry key="JSON" value="6" />
+          <entry key="JavaScript" value="27" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="css" value="179" />
           <entry key="html" value="66" />
-          <entry key="js" value="857" />
+          <entry key="js" value="4146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="CSS" value="179" />
           <entry key="HTML" value="66" />
-          <entry key="JavaScript" value="857" />
+          <entry key="JavaScript" value="4146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -67,67 +80,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/psadmin/gulpfile.js">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/AuthorQuiz.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="944">
-              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+            <state relative-caret-position="224">
+              <caret line="14" column="70" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/psadmin/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/psadmin/src/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/psadmin/src/components/common/header.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/psadmin/src/components/authors/authorPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/psadmin/src/components/authors/authorList.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/psadmin/src/components/homePage.js">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/psadmin/package.json">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="98" column="12" lean-forward="true" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/Continue.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="16" />
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/Contiune.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/AuthorQuiz.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/AuthorForm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -138,6 +162,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -149,9 +174,19 @@
       <list>
         <option value="$PROJECT_DIR$/psadmin/src/index.html" />
         <option value="$PROJECT_DIR$/psadmin/gulpfile.js" />
-        <option value="$PROJECT_DIR$/psadmin/src/main.js" />
         <option value="$PROJECT_DIR$/psadmin/src/components/common/header.js" />
         <option value="$PROJECT_DIR$/psadmin/src/components/authors/authorList.js" />
+        <option value="$PROJECT_DIR$/psadmin/src/main.js" />
+        <option value="$PROJECT_DIR$/psadmin/src/api/authorData.js" />
+        <option value="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.test.js" />
+        <option value="$PROJECT_DIR$/author-quiz/src/Components/Footer.js" />
+        <option value="$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.css" />
+        <option value="$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.js" />
+        <option value="$PROJECT_DIR$/author-quiz/src/Components/AuthorForm.js" />
+        <option value="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.js" />
+        <option value="$PROJECT_DIR$/author-quiz/src/index.js" />
+        <option value="$PROJECT_DIR$/author-quiz/src/Components/Contiune.css" />
+        <option value="$PROJECT_DIR$/author-quiz/src/Components/Continue.js" />
       </list>
     </option>
   </component>
@@ -174,10 +209,30 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="2577" />
-    <option name="height" value="1417" />
+    <option name="x" value="-292" />
+    <option name="y" value="-883" />
+    <option name="width" value="2062" />
+    <option name="height" value="1134" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ES6ModulesDependencies</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -194,36 +249,46 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="author-quiz" type="9a108dff:SolutionExplorerFileNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="author-quiz" type="9a108dff:SolutionExplorerFileNode" />
               <item name="src" type="9a108dff:SolutionExplorerFileNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="author-quiz" type="9a108dff:SolutionExplorerFileNode" />
               <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="components" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="Components" type="9a108dff:SolutionExplorerFileNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="components" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="authors" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="react-basics" type="9a108dff:SolutionExplorerFileNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="react-basics" type="9a108dff:SolutionExplorerFileNode" />
               <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="components" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="common" type="9a108dff:SolutionExplorerFileNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="react-basics" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="Components" type="9a108dff:SolutionExplorerFileNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="react-basics" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="Components" type="9a108dff:SolutionExplorerFileNode" />
+              <item name="PlayNine" type="9a108dff:SolutionExplorerFileNode" />
             </path>
           </expand>
           <select />
@@ -238,6 +303,7 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Git/ReportingCenter/ReportingCenter.sln" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
@@ -267,12 +333,13 @@
       <workItem from="1535037032787" duration="4066000" />
       <workItem from="1535384094298" duration="25000" />
       <workItem from="1535497253811" duration="605000" />
-      <workItem from="1535504956009" duration="338000" />
+      <workItem from="1535504956009" duration="682000" />
+      <workItem from="1535553868953" duration="11690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8537000" />
+    <option name="totallyTimeSpent" value="20571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -284,11 +351,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-487" y="-1088" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.22818792" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18390192" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299532" />
@@ -300,9 +369,9 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32624114" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2494577" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3299532" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.329718" />
       <window_info anchor="right" id="Errors In Solution" order="0" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -347,8 +416,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/psadmin/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psadmin/src/components/authors/authorPage.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psadmin/src/components/authors/authorList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/psadmin/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -357,32 +440,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/psadmin/src/api/authorData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/Turn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/psadmin/src/components/homePage.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/psadmin/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/psadmin/src/components/common/header.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="368">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/psadmin/src/components/authors/authorPage.js">
+    <entry file="file://$PROJECT_DIR$/author-quiz/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165" />
+        <state relative-caret-position="352">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/psadmin/src/components/authors/authorList.js">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/bash.exe.stackdump">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="64">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-basics/src/Components/PlayNine/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-basics/src/Components/PlayNine/PlayNine.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react-basics/src/Components/PlayNine/DoneFrame.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/AuthorForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="98" column="12" lean-forward="true" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/AuthorQuiz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="70" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/Contiune.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/AuthorQuiz.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="79" column="3" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/author-quiz/src/Components/Continue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
