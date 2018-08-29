@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e96acaf1-9e3d-47e8-9cb9-b27b9a8eeb25" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author-quiz/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author-quiz/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/AuthorQuiz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/Components/AddAuthorForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/author-quiz/src/Components/Continue.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/Components/Continue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/author-quiz/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/author-quiz/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,14 +62,14 @@
         <counts>
           <entry key="css" value="179" />
           <entry key="html" value="66" />
-          <entry key="js" value="5536" />
+          <entry key="js" value="5542" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="179" />
           <entry key="HTML" value="66" />
-          <entry key="JavaScript" value="5536" />
+          <entry key="JavaScript" value="5542" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -100,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/author-quiz/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+            <state relative-caret-position="533">
+              <caret line="114" selection-start-line="114" selection-end-line="114" />
             </state>
           </provider>
         </entry>
@@ -303,12 +296,12 @@
       <workItem from="1535384094298" duration="25000" />
       <workItem from="1535497253811" duration="605000" />
       <workItem from="1535504956009" duration="682000" />
-      <workItem from="1535553868953" duration="19864000" />
+      <workItem from="1535553868953" duration="20421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28745000" />
+    <option name="totallyTimeSpent" value="29302000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -518,8 +511,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/author-quiz/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="98" column="48" selection-start-line="98" selection-start-column="48" selection-end-line="98" selection-end-column="48" />
+        <state relative-caret-position="533">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
         </state>
       </provider>
     </entry>
