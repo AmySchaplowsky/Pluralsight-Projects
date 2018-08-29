@@ -8,7 +8,7 @@ var AuthorList = React.createClass({
             return (
                 <tr key={author.id}>
                     <td>
-                        <a href={"/?" + author.pageId + "#authors/" + author.id}>{author.id}</a>
+                        <a href={"/#authors/" + author.id}>{author.id}</a>
                     </td>
                     <td>
                         {author.firstName} {author.lastName}

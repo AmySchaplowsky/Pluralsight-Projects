@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="\1f3e99d3" t="IncludeRecursive" />
+    <e p="\97c4f6c6" t="IncludeRecursive" />
     <e p="\app" t="IncludeRecursive" />
-    <e p="C:\Pluralsight-Projects" t="IncludeFlat">
+    <e p="C:\Pluralsight Projects" t="IncludeFlat">
       <e p="author-quiz\node_modules\@types" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\bootstrap" t="IncludeRecursive" />
       <e p="author-quiz\node_modules\enzyme" t="IncludeRecursive" />
@@ -41,7 +41,8 @@
       <e p="react-basics\node_modules\react-dom" t="IncludeRecursive" />
       <e p="react-basics\node_modules\react-scripts" t="IncludeRecursive" />
     </e>
-    <e p="C:\Users\kyles\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kyles\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Pluralsight Projects.1093836292.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ams\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\ams\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ams\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Pluralsight Projects.647342193.00" t="ExcludeRecursive" />
   </component>
 </project>

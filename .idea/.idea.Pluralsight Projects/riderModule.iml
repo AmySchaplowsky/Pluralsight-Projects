@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file:///app" />
     <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$APPLICATION_CONFIG_DIR$/extensions" />
     <content url="file://$USER_HOME$/.Rider2018.2/system/extResources" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

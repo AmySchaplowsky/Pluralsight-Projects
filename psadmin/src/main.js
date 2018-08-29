@@ -38,6 +38,6 @@ var Authors = require('./components/authors/authorPage');
         React.render(<App route={route}/>, document.getElementById('app'));
     }
 
-    win.addEventListener('hashChange', render);
+    win.addEventListener('hashchange', render);
     render();
 })(window);
