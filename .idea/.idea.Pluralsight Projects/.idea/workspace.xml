@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e96acaf1-9e3d-47e8-9cb9-b27b9a8eeb25" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/psadmin/src/components/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psadmin/src/components/notFoundPage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/psadmin/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Pluralsight Projects/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/components/about/aboutPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/components/about/aboutPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/components/authors/authorList.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/components/authors/authorList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/components/authors/authorPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/components/authors/authorPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/components/common/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/components/common/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/components/homePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/components/homePage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/psadmin/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/psadmin/src/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="e96acaf1-9e3d-47e8-9cb9-b27b9a8eeb25" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,16 +67,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/psadmin/src/components/about/aboutPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+            <state relative-caret-position="224">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/psadmin/src/routes.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
@@ -207,32 +192,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="components" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Pluralsight Projects" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="psadmin" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="src" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="components" type="9a108dff:SolutionExplorerFileNode" />
-              <item name="about" type="9a108dff:SolutionExplorerFileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -278,12 +237,12 @@
       <workItem from="1535497253811" duration="605000" />
       <workItem from="1535504956009" duration="682000" />
       <workItem from="1535553868953" duration="20684000" />
-      <workItem from="1535645421734" duration="6146000" />
+      <workItem from="1535645421734" duration="6514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35711000" />
+    <option name="totallyTimeSpent" value="36079000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -296,11 +255,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-487" y="-1088" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.18603411" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18603411" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299532" />
@@ -312,7 +270,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2494577" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2494577" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.329718" />
       <window_info anchor="bottom" id="Messages" order="14" />
@@ -514,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/psadmin/src/components/about/aboutPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/psadmin/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -532,6 +483,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psadmin/src/components/about/aboutPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
