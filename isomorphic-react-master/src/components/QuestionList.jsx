@@ -4,7 +4,7 @@ import {connect} from 'react-redux';
 import {Link} from 'react-router-dom'
 
 /**
- * Each entry in the QuestionList is represtented by a QuestionListItem, which displays high-level information
+ * Each entry in the QuestionList is represented by a QuestionListItem, which displays high-level information
  * about a question in a format that works well in a list
  */
 const QuestionListItem = ({tags, answer_count, title, views, question_id}) => (
