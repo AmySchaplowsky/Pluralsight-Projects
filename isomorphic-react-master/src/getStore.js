@@ -1,6 +1,6 @@
-import { createStore, combineReducers,applyMiddleware } from 'redux'
-import { routerReducer as router, routerMiddleware } from 'react-router-redux'
-import { createLogger } from 'redux-logger';
+import {applyMiddleware, combineReducers, createStore} from 'redux'
+import {routerMiddleware, routerReducer as router} from 'react-router-redux'
+import {createLogger} from 'redux-logger';
 import createSagaMiddleware from 'redux-saga';
 import fetchQuestionSaga from './sagas/fetch-question-saga'
 import fetchQuestionsSaga from './sagas/fetch-questions-saga'
@@ -15,7 +15,7 @@ import * as reducers from './reducers'
  * The default state of the application. Since this is used by React Router, this can affect
  * the application's initial render
  */
-export default function(history,defaultState = {}){
+export default function (history, defaultState = {}) {
     /**
      * Create middleware for React-router and pass in history
      */
@@ -33,7 +33,7 @@ export default function(history,defaultState = {}){
 
 
     const middlewareChain = [middleware, sagaMiddleware];
-    if(process.env.NODE_ENV === 'development') {
+    if (process.env.NODE_ENV === 'development') {
         const logger = createLogger();
         middlewareChain.push(logger);
     }
@@ -44,7 +44,7 @@ export default function(history,defaultState = {}){
     const store = createStore(combineReducers({
         ...reducers,
         router
-    }), defaultState,applyMiddleware(...middlewareChain));
+    }), defaultState, applyMiddleware(...middlewareChain));
 
     /**
      * Run the sagas which will in turn wait for the appropriate action type before making requests

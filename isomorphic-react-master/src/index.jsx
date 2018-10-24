@@ -6,8 +6,8 @@
 import App from './App'
 import ReactDOM from 'react-dom'
 import React from 'react';
-import { Provider } from 'react-redux';
-import { ConnectedRouter } from 'react-router-redux'
+import {Provider} from 'react-redux';
+import {ConnectedRouter} from 'react-router-redux'
 import getStore from './getStore';
 import createHistory from 'history/createBrowserHistory';
 
@@ -30,20 +30,20 @@ if (module.hot) {
  * encapsulated inside a router, which will automatically let Route tags render based on the Redux store,
  * which itself is encapsulated inside a provider, which gives child connected components access to the Redux store
  */
-const render = (_App)=>{
+const render = (_App) => {
     ReactDOM.render(
         <Provider store={store}>
-            <ConnectedRouter  history={history}>
-                 <_App />
-             </ConnectedRouter>
-         </Provider>
-        ,document.getElementById("AppContainer"));
+            <ConnectedRouter history={history}>
+                <_App/>
+            </ConnectedRouter>
+        </Provider>
+        , document.getElementById("AppContainer"));
 };
 
 /**
  * Listen for changes to the store
  */
-store.subscribe(()=>{
+store.subscribe(() => {
     const state = store.getState();
     /**
      * When the questions array is populated, that means the saga round trip has completed,
@@ -62,19 +62,19 @@ store.subscribe(()=>{
  * @param location
  * The current URL that is loaded
  */
-const fetchDataForLocation = location=>{
+const fetchDataForLocation = location => {
     /**
      * If the location is the standard route, fetch an undetailed list of all questions
      **/
-    if (location.pathname === "/"){
-        store.dispatch({type:`REQUEST_FETCH_QUESTIONS`})
+    if (location.pathname === "/") {
+        store.dispatch({type: `REQUEST_FETCH_QUESTIONS`})
     }
 
     /**
      * If the location is the details route, fetch details for one question
      */
     if (location.pathname.includes(`questions`)) {
-        store.dispatch({type:`REQUEST_FETCH_QUESTION`,question_id:location.pathname.split('/')[2]});
+        store.dispatch({type: `REQUEST_FETCH_QUESTION`, question_id: location.pathname.split('/')[2]});
     }
 };
 /**
