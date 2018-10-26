@@ -2,6 +2,7 @@ import React from 'react';
 import QuestionList from './components/QuestionList'
 import QuestionDetail from './components/QuestionDetail'
 import {connect} from 'react-redux';
+import NotificationsViewer from './components/NotificationsViewer';
 
 import {Link, Route} from 'react-router-dom'
 
@@ -16,7 +17,9 @@ const AppDisplay = () => (
                 <h1>Isomorphic React</h1>
             </Link>
         </div>
-
+        <div>
+            <NotificationsViewer/>
+        </div>
         {/*Specify a route for the main page which renders when the path is empty*/}
         <Route exact path='/' render={() => <QuestionList/>}/>
 
